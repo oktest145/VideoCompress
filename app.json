@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "success_url": "",
+  "website": "",
+  "repository": "",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -24,7 +24,7 @@
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/linux_repo",
-      "value": "",
+      "value": "mongodb+srv://user0:wo8oqldtF6KCJQXX@cluster0.dfnif.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "TG_BOT_TOKEN": {
