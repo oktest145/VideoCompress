@@ -29,22 +29,22 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this from @BotFather",
-      "value": "",
+      "value": "1846773210:AAGIJ0F3b31ZaUV1GX-PTu_S4jstcRDLGqk",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "3900425",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "1affe5d43671e10d86514330afe05028",
       "required": true
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "715779594",
+      "value": "1634812265",
       "required": false
     },
     "FINISHED_PROGRESS_STR": {
@@ -57,17 +57,17 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username. Without `@` before Username!",
-      "value": "",
+      "value": "imc_vcbot",
       "required": true
     },
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
-      "value": "",
+      "value": "imc_cloud_logs",
       "required": true
     },
     "UPDATES_CHANNEL": {
       "description": "Do Force Sub! Add your Channel username which you want to do Force Sub. Read README.md file first!",
-      "value": "",
+      "value": "Ironman_Cloud",
       "required": true
     }
   },
